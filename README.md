@@ -18,7 +18,7 @@ This script provides a comprehensive analysis of PE (Portable Executable) and EL
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/malware-analysis-script.git
+    git clone https://github.com/prayagacharya/File_Intel.git
     cd malware-analysis-script
     ```
 
