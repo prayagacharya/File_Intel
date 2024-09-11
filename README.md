@@ -29,7 +29,7 @@ This script provides a comprehensive analysis of PE (Portable Executable) and EL
 
 3. Run the script:
     ```bash
-    python malware_analysis.py <filepath> <apikey> [--yararules <path to YARA rules>]
+    python main.py <filepath> <apikey> [--yararules <path to YARA rules>]
     ```
 
    - `filepath`: Path to the file to be analyzed.
